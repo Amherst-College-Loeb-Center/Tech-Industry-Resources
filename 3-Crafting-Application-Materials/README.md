@@ -1,0 +1,11 @@
+### 3. Crafting Application Materials
+   - **Building a Strong Resume:**
+     - **Build Your Resume:** Show your passion for tech through projects, internships, and learning new languages. Side projects and open-source contributions are valuable.
+     - **Draft Your Resume:** Focus on CS accomplishments, use technical terms, and emphasize metrics and diverse languages/frameworks. Proofread thoroughly.
+   - **Drafting a Cover Letter:**
+     - **Draft a Cover Letter:** Tailor each cover letter to the specific company, highlighting why the role appeals to you and how you can add value.
+   - **Creating a LinkedIn Profile:**
+     - **Make a LinkedIn:** Use LinkedIn to connect with alumni and industry professionals.
+   - **Setting Up a GitHub and Personal Website:**
+     - **Make a GitHub:** Showcase your projects to recruiters & interviewers.
+     - **Make a Personal Website:** A helpful marketing tool where you can gather all information about yourself.

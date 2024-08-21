@@ -1,0 +1,11 @@
+### 6. Interview Preparation
+   - **Stages of Interviews (Screening, Phone Interviews, On-Site):**
+     - **Interviewing:** Understand the process from resume screening to on-site interviews. Expect behavioral questions and technical challenges.
+   - **Common Interview Questions (Personality, Resume, Technical):**
+     - **Personality Questions:** Prepare for questions about your background, motivations, and experiences.
+   - **Technical Preparation and Resources:**
+     - **Technical Preparation:** Master data structures, algorithms, and programming techniques. Use resources like Cracking the Coding Interview and online platforms for practice.
+   - **Problem-Solving Approaches During Interviews:**
+     - **Problem-solving Approach:** Follow a structured approach to clarify, run through examples, and code solutions during interviews.
+   - **Post-Interview Follow-Up:**
+     - **Thank-You Notes:** Always send thank-you notes after interviews to maintain a positive impression.
