@@ -4,45 +4,45 @@ Welcome to the Tech-Industry-Resources repository! This repository is a comprehe
 
 ## Table of Contents
 
-1. [Introduction](./Introduction)
+1. [Introduction](./1-Introduction)
    - Overview of the Tech Industry
    - Importance of Preparation
    - Initial Steps
 
-2. [Roles & Recruitment Process](./Roles-and-Recruitment-Process)
+2. [Roles & Recruitment Process](./2-Roles-and-Recruitment-Process)
    - Timeline of the Tech Recruiting Process
    - Popular Companies and Roles
    - Locations of Major Tech Hubs
 
-3. [Crafting Application Materials](./Crafting-Application-Materials)
+3. [Crafting Application Materials](./3-Crafting-Application-Materials)
    - Building a Strong Resume
    - Drafting a Cover Letter
    - Creating a LinkedIn Profile
    - Setting Up a GitHub and Personal Website
 
-4. [Networking](./Networking)
+4. [Networking](./4-Networking)
    - Making Connections (LinkedIn, Alumni, Cold Emails)
    - Attending Hackathons and Career Fairs
    - Using Amherst Alumni Resources
 
-5. [Application Strategy](./Application-Strategy)
+5. [Application Strategy](./5-Application-Strategy)
    - Tailoring Applications for Specific Companies
    - How to Get Referrals
    - Applying through Online Portals and Handshake
 
-6. [Interview Preparation](./Interview-Preparation)
+6. [Interview Preparation](./6-Interview-Preparation)
    - Stages of Interviews (Screening, Phone Interviews, On-Site)
    - Common Interview Questions (Personality, Resume, Technical)
    - Technical Preparation and Resources
    - Problem-Solving Approaches During Interviews
    - Post-Interview Follow-Up
 
-7. [Post-Offer Considerations](./Post-Offer-Considerations)
+7. [Post-Offer Considerations](./7-Post-Offer-Considerations)
    - Evaluating and Negotiating Offers
    - Onboarding and Team Matching
    - Background Checks and OPT Application for International Students
 
-8. [Additional Resources](./Additional-Resources)
+8. [Additional Resources](./8-Additional-Resources)
    - Recommended Reading and Practice Sites
    - Templates (Resume, Cover Letter)
    - Links to Useful Tools and Platforms
