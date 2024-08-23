@@ -2,6 +2,20 @@
 
 Welcome to the Tech-Industry-Resources repository! This repository is a comprehensive guide to help students navigate the technology industry, from understanding the recruitment process to landing a job. Whether you're just starting out or looking to enhance your career in tech, you'll find valuable resources and advice here.
 
+## Quick Links:
+
+- [LeetCode](https://leetcode.com/) + [HackerRank](https://www.hackerrank.com/dashboard) for practicing interview-style coding problems. **(for effective pythonic explanations, [NeetCode](https://neetcode.io/) is rockstar!)**
+- [Official Google Interview Prep Guide & Materials](https://techdevguide.withgoogle.com/paths/interview/)
+- [CodePath](https://www.codepath.org/) Technical Interview Prep & software engineering courses that you can register for free. (literal gold-mine for first/second year students)
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell (Holy grail for tech interviews since a long time - famous as the Green Book)
+- [Pramp.com](http://Pramp.com) to practice technical interviews with random strangers through a secure platform (think Omegle for coding interview prep)
+- [Coursera](https://www.coursera.org/) offers courses taught by university professors, and even industry professionals that can be audited for free or completed for a certification. You can also write some essays and apply for financial aid (upto 100%), and gain certifications from Fortune-500 companies and top universities from around the globe.
+- [DeepLearning.AI](http://DeepLearning.AI)’s Machine Learning and Deep Learning Specialization by Andrew Ng, for instance, which is very popular among ML/AI industry professionals.
+- [Aman.ai](http://Aman.ai) for amazing collection of summary sheets and state-of-the-art paper reviews
+- [Kaggle](https://www.kaggle.com/) for building practical experience with real-world data sets, working on projects in cloud hosted virtual environments, and competing in prediction/modeling contests to build muscle.
+- [AutomateTheBoringStuff](https://automatetheboringstuff.com) for some inspiration on projects making real impact and saving time
+- [Devpost](https://devpost.com/) is a great platform to get involved in virtual/in-person hackathons/events all at one place
+
 ## Table of Contents
 
 1. [Introduction](./1-Introduction)
