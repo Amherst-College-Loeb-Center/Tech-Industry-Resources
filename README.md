@@ -63,7 +63,7 @@ Welcome to the Tech-Industry-Resources repository! This repository is a comprehe
 
 ## Contributing
 
-We welcome contributions to this repository. If you have any additional resources, tips, or corrections, please feel free to open an issue or submit a pull request (PR).
+We welcome contributions to this repository. If you have any additional resources, tips, or corrections, please feel free to open an issue or submit a pull request (PR) after contributing in your own branch.
 
 We thank Harith Khawaja & Emily Masten for preparing the initial tech-pack in 2019. This resource builds upon that, and updates it to be relevant for the current timeframe.
 
