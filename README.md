@@ -1,4 +1,4 @@
-# Tech-Industry-Resources
+# Tech Industry Resources
 
 Welcome to the Tech-Industry-Resources repository! This repository is a comprehensive guide to help students navigate the technology industry, from understanding the recruitment process to landing a job. Whether you're just starting out or looking to enhance your career in tech, you'll find valuable resources and advice here.
 
