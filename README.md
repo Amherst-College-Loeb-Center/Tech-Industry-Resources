@@ -4,7 +4,7 @@ Welcome to the Tech-Industry-Resources repository! This repository is a comprehe
 
 ## Quick Links:
 
-- [LeetCode](https://leetcode.com/) + [HackerRank](https://www.hackerrank.com/dashboard) for practicing interview-style coding problems. **(for effective pythonic explanations, [NeetCode](https://neetcode.io/) is rockstar!)**
+- [LeetCode](https://leetcode.com/) + [HackerRank](https://www.hackerrank.com/dashboard) for practicing interview-style coding problems. **(for effective Python-based explanations & walkthroughs, [NeetCode](https://neetcode.io/) is rockstar!)**
 - [Official Google Interview Prep Guide & Materials](https://techdevguide.withgoogle.com/paths/interview/)
 - [CodePath](https://www.codepath.org/) Technical Interview Prep & software engineering courses that you can register for free. (literal gold-mine for first/second year students)
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell (Holy grail for tech interviews since a long time - famous as the Green Book)
